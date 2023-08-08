@@ -1,0 +1,13 @@
+* {
+    background-color: bisque;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: chocolate;
+}
+
+li, p {
+    text-align: left;
+}
